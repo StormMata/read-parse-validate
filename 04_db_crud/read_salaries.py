@@ -1,0 +1,1 @@
+# Read salaries from the database

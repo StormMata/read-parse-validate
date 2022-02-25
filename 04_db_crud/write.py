@@ -1,0 +1,1 @@
+# Write all salaries to the database
